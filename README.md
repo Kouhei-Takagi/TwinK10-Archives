@@ -23,6 +23,7 @@ From the collision points of physical bottlenecks, supply chain vulnerabilities,
 ## 📚 Latest Reports
 
 <!-- REPORTS_LIST_START -->
+- **[2026-11-21](reports/2026/11/2026-11-21_TwinK10_Report.md)** — TwinK10 Future Technology & Strategic Development Report (`2026-11-21 19:24:09`)
 - **[2026-11-20](reports/2026/11/2026-11-20_TwinK10_Report.md)** — TwinK10 Future Technology & Strategic Development Report (`2026-11-20 19:24:11`)
 - **[2026-11-19](reports/2026/11/2026-11-19_TwinK10_Report.md)** — TwinK10 Future Technology & Strategic Development Report (`2026-11-19 19:23:40`)
 - **[2026-11-18](reports/2026/11/2026-11-18_TwinK10_Report.md)** — TwinK10 Future Technology & Strategic Development Report (`2026-11-18 19:23:32`)
